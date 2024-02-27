@@ -2,7 +2,7 @@
 
 ## Description
 
-Aan app that displays programming books. Built using React components.
+An app that displays programming books. Built using React components.
 
 <img src="books-ss.jpg" width="400px"/>
 
